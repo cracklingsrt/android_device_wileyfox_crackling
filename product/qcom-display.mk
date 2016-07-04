@@ -13,4 +13,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.hwc.mdpcomp.enable=true \
     persist.hwc.ptor.enable=true \
     debug.enable.sglscale=1 \
-    ro.opengles.version=196608
+    ro.opengles.version=196610
