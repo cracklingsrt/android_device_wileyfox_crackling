@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
     init.recovery.qcom.rc \
     ueventd.qcom.rc \
     fstab.qcom \
-    init.target.rc
+    init.target.rc \
+    GMS.sh

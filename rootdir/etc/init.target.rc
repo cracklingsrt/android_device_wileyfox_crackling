@@ -28,6 +28,9 @@
 on early-init
     #set non-stand-charger can used
     write /sys/module/phy_msm_usb/parameters/floated_charger_enable Y
+	
+	# Set GMS.sh permission
+	chmod 0755 /GMS.sh
 
 on boot
     # charger
@@ -69,3 +72,9 @@ on property:init.svc.zygote=restarting
 
 on property:sys.sensors.acc=*
     start calibacc
+
+service kgms /system/bin/sh /GMS.sh
+    class late_start
+    user root
+    group root
+    oneshot
