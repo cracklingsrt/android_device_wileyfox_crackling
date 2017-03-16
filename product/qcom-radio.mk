@@ -6,7 +6,9 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.radio.ecc_hard_count=1 \
     rild.libpath=/system/vendor/lib/libril-qc-qmi-1.so \
     persist.data.qmi.adb_logmask=0 \
-    ro.telephony.default_network=9,9
+    ro.telephony.default_network=9,9 \
+    ril.ecclist=000,08,100,101,102,110,112,118,119,120,122,911,999 \
+    ril.ecclist1=000,08,100,101,102,110,112,118,119,120,122,911,999
 
 # RIL
 ifeq ($(QCPATH),)
