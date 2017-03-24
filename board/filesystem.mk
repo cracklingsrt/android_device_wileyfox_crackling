@@ -10,4 +10,6 @@ BOARD_CACHEIMAGE_FILE_SYSTEM_TYPE := ext4
 
 # Filesystem Types
 TARGET_USERIMAGES_USE_EXT4 := true
+ifeq ($(HOST_OS),linux)
 TARGET_USERIMAGES_USE_F2FS := true
+endif
