@@ -15,7 +15,7 @@
 
 FORCE_32_BIT := true
 
--include device/cyanogen/msm8916-common/BoardConfigCommon.mk
+-include device/wileyfox/msm8916-common/BoardConfigCommon.mk
 
 include device/wileyfox/crackling/board/*.mk
 
