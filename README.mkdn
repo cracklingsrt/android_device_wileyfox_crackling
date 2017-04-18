@@ -1,4 +1,4 @@
-Unified Device Tree for Android One Second Generation (seed)
+Device Tree for Wileyfox Swift (crackling)
 ============================================================
 Basic   | Specification List
 -------:|:-------------------------
