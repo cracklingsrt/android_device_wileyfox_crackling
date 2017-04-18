@@ -63,11 +63,12 @@
 
     <bool name="config_allowAllRotations">true</bool>
 
-    <bool name="config_eap_sim_based_auth_supported">false</bool>
+    <string name="config_useragentprofile_url" translatable="false">http://ua-profiles.cyngn.com/crackling/crackling-1016c1298e.rdf</string>
 
-    <!-- Whether a software navigation bar should be shown. NOTE: in the future this may be
-                  autodetected from the Configuration. -->
-    <bool name="config_showNavigationBar">true</bool>
+    <string name="config_mms_user_agent">Wileyfox-Swift/1.0</string>
+    <string name="config_mms_user_agent_profile_url">http://ua-profiles.cyngn.com/crackling/crackling-1016c1298e.rdf</string>
+
+    <bool name="config_eap_sim_based_auth_supported">true</bool>
 
     <!-- Vibrator pattern for feedback about a long screen/key press -->
     <integer-array name="config_longPressVibePattern">
