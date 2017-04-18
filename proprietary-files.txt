@@ -23,11 +23,6 @@ vendor/lib/libbtnv.so
 
 # Camera
 bin/mm-qcamera-daemon
-lib/hw/camera.msm8916.so
-lib/libmmcamera_interface.so
-lib/libmmjpeg_interface.so
-lib/libmm-qcamera.so
-lib/libqomx_core.so
 vendor/lib/libjpegdhw.so
 vendor/lib/libjpegehw.so
 vendor/lib/libmmcamera2_c2d_module.so
@@ -38,6 +33,7 @@ vendor/lib/libmmcamera2_imglib_modules.so
 vendor/lib/libmmcamera2_isp_modules.so
 vendor/lib/libmmcamera2_is.so
 vendor/lib/libmmcamera2_pproc_modules.so
+vendor/lib/libmmcamera2_q3a_core.so
 vendor/lib/libmmcamera2_sensor_modules.so
 vendor/lib/libmmcamera2_stats_algorithm.so
 vendor/lib/libmmcamera2_stats_modules.so
@@ -54,55 +50,51 @@ vendor/lib/libmmipl.so
 vendor/lib/libmmjpeg.so
 vendor/lib/libmmqjpeg_codec.so
 vendor/lib/liboemcamera.so
-vendor/lib/libqomx_jpegdec.so
 vendor/lib/libqomx_jpegenc.so
 
 # Camera actuator
-vendor/lib/libactuator_dw9714a_cma334_camcorder.so
-vendor/lib/libactuator_dw9714a_cma334_camera.so
-vendor/lib/libactuator_dw9714a_cma334.so
+vendor/lib/libactuator_AK7345_camcorder.so
+vendor/lib/libactuator_AK7345_camera.so
+vendor/lib/libactuator_dw9718s_olqba20.so
 vendor/lib/libactuator_dw9718s_olqba20_camcorder.so
 vendor/lib/libactuator_dw9718s_olqba20_camera.so
-vendor/lib/libactuator_dw9718s_olqba20.so
 
 # Camera chromatix
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_common.so
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_default_video.so
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_120fps.so
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_60fps.so
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_hfr_90fps.so
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_liveshot.so
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_preview.so
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_snapshot.so
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_video_hd.so
-vendor/lib/libchromatix_SKUAB_ST_s5k4e1_zsl.so
+vendor/lib/libchromatix_hi545_8916_common.so
+vendor/lib/libchromatix_hi545_8916_hfr_120fps.so
+vendor/lib/libchromatix_hi545_8916_hfr_60fps.so
+vendor/lib/libchromatix_hi545_8916_hfr_90fps.so
+vendor/lib/libchromatix_hi545_8916_liveshot.so
+vendor/lib/libchromatix_hi545_8916_preview.so
+vendor/lib/libchromatix_hi545_8916_snapshot.so
+vendor/lib/libchromatix_hi545_8916_default_video.so
+vendor/lib/libchromatix_hi545_8916_video_hd.so
+vendor/lib/libchromatix_imx214_8916_common.so
+vendor/lib/libchromatix_imx214_8916_hfr_120fps.so
+vendor/lib/libchromatix_imx214_8916_hfr_60fps.so
+vendor/lib/libchromatix_imx214_8916_hfr_90fps.so
+vendor/lib/libchromatix_imx214_8916_liveshot.so
+vendor/lib/libchromatix_imx214_8916_preview.so
+vendor/lib/libchromatix_imx214_8916_snapshot.so
+vendor/lib/libchromatix_imx214_8916_default_video.so
+vendor/lib/libchromatix_imx214_8916_video_hd.so
 vendor/lib/libchromatix_s5k3m2_olqba20_common.so
-vendor/lib/libchromatix_s5k3m2_olqba20_default_video.so
 vendor/lib/libchromatix_s5k3m2_olqba20_hfr_120fps.so
 vendor/lib/libchromatix_s5k3m2_olqba20_hfr_60fps.so
 vendor/lib/libchromatix_s5k3m2_olqba20_hfr_90fps.so
 vendor/lib/libchromatix_s5k3m2_olqba20_preview.so
 vendor/lib/libchromatix_s5k3m2_olqba20_snapshot.so
-vendor/lib/libchromatix_s5k4h5_cma334_common.so
-vendor/lib/libchromatix_s5k4h5_cma334_default_video.so
-vendor/lib/libchromatix_s5k4h5_cma334_hfr_120fps.so
-vendor/lib/libchromatix_s5k4h5_cma334_hfr_60fps.so
-vendor/lib/libchromatix_s5k4h5_cma334_hfr_90fps.so
-vendor/lib/libchromatix_s5k4h5_cma334_liveshot.so
-vendor/lib/libchromatix_s5k4h5_cma334_preview.so
-vendor/lib/libchromatix_s5k4h5_cma334_snapshot.so
-vendor/lib/libchromatix_s5k4h5_cma334_video_hd.so
+vendor/lib/libchromatix_s5k3m2_olqba20_default_video.so
 vendor/lib/libchromatix_s5k5e2_olq5f19_common.so
 vendor/lib/libchromatix_s5k5e2_olq5f19_liveshot.so
 vendor/lib/libchromatix_s5k5e2_olq5f19_preview.so
 vendor/lib/libchromatix_s5k5e2_olq5f19_snapshot.so
-vendor/lib/libchromatix_s5k5e2_olq5f19_video_hd.so
 vendor/lib/libchromatix_s5k5e2_olq5f19_video.so
+vendor/lib/libchromatix_s5k5e2_olq5f19_video_hd.so
 
 # Camera eeprom
 vendor/lib/libmmcamera_s5k3m2_olqba20_eeprom.so
 vendor/lib/libmmcamera_s5k5e2_olq5f19_eeprom.so
-vendor/lib/libmmcamera_s5k4h5_cma334_eeprom.so
 
 # Camera firmware
 etc/firmware/cpp_firmware_v1_1_1.fw
@@ -111,9 +103,9 @@ etc/firmware/cpp_firmware_v1_2_0.fw
 etc/firmware/cpp_firmware_v1_4_0.fw
 
 # Camera sensors
-vendor/lib/libmmcamera_SKUAB_ST_s5k4e1.so
+vendor/lib/libmmcamera_hi545_8916.so
+vendor/lib/libmmcamera_imx214_8916.so
 vendor/lib/libmmcamera_s5k3m2_olqba20.so
-vendor/lib/libmmcamera_s5k4h5_cma334.so
 vendor/lib/libmmcamera_s5k5e2_olq5f19.so
 
 # DRM
