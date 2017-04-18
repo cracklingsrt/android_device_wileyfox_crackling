@@ -19,7 +19,5 @@ FORCE_32_BIT := true
 
 include device/wileyfox/crackling/board/*.mk
 
-TARGET_BOARD_INFO_FILE := device/wileyfox/crackling/board-info.txt
-
 # inherit from the proprietary version
 -include vendor/wileyfox/crackling/BoardConfigVendor.mk
