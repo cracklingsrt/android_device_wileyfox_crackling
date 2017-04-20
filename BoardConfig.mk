@@ -15,8 +15,6 @@
 
 FORCE_32_BIT := true
 
--include device/wileyfox/msm8916-common/BoardConfigCommon.mk
-
 include device/wileyfox/crackling/board/*.mk
 
 # inherit from the proprietary version
