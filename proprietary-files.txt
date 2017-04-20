@@ -42,7 +42,15 @@ vendor/lib/libmmcamera2_wnr_module.so
 vendor/lib/libmmcamera_faceproc.so
 vendor/lib/libmmcamera_hdr_gb_lib.so
 vendor/lib/libmmcamera_hdr_lib.so
+vendor/lib/libmmcamera_hi545_8916.so
 vendor/lib/libmmcamera_imglib.so
+vendor/lib/libmmcamera_imx214_8916.so
+vendor/lib/libmmcamera_pdafcamif.so
+vendor/lib/libmmcamera_pdaf.so
+vendor/lib/libmmcamera_s5k3m2_olqba20_eeprom.so
+vendor/lib/libmmcamera_s5k3m2_olqba20.so
+vendor/lib/libmmcamera_s5k5e2_olq5f19_eeprom.so
+vendor/lib/libmmcamera_s5k5e2_olq5f19.so
 vendor/lib/libmmcamera_tintless_algo.so
 vendor/lib/libmmcamera_tintless_bg_pca_algo.so
 vendor/lib/libmmcamera_wavelet_lib.so
