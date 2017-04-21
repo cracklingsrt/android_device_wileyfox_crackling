@@ -4,4 +4,4 @@ PRODUCT_PACKAGES += \
 
 # Properties
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.min_freq_0=800000
+    ro.min_freq_0=200000
