@@ -181,10 +181,6 @@ vendor/lib/libOmxAacDec.so
 vendor/lib/libOmxEvrcDec.so
 vendor/lib/libOmxQcelp13Dec.so
 
-# Perf
-bin/perfd:vendor/bin/perfd
-vendor/lib/libqti-perfd-client.so
-
 # Postprocessing (jalebi)
 bin/mm-pp-daemon
 vendor/lib/libdisp-aba.so
