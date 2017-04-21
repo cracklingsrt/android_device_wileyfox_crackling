@@ -1,0 +1,4 @@
+# Add crackling to lunch menu
+add_lunch_combo lineage_crackling-userdebug
+add_lunch_combo lineage_crackling-user
+add_lunch_combo lineage_crackling-eng
