@@ -1,0 +1,2 @@
+# Build type
+CM_BUILDTYPE := EXPERIMENTAL
