@@ -38,7 +38,6 @@
   <string name="touchscreen_z_gesture_summary">Намалюй «Z» для ўключэння ці выключэння ліхтарыка</string>
   <!-- User-aware display -->
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Індыкацыя падзей</string>
   <string name="ambient_display_enable_title">Індыкацыя падзей</string>
   <string name="ambient_display_enable_summary">Улучаць экран пры атрыманні апавяшчэнняў</string>
   <!-- Tilt sensor -->

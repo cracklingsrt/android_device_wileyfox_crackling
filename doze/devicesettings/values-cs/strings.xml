@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Všímat si uživatele</string>
   <string name="user_aware_display_summary">Pokud je uživatel před obrazovkou, nechat ji zapnutou</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambientní zobrazení</string>
   <string name="ambient_display_enable_title">Ambientní zobrazení</string>
   <string name="ambient_display_enable_summary">Probudit obrazovku při upozornění</string>
   <string name="ambient_display_summary">Probudit obrazovku při upozornění</string>

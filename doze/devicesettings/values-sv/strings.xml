@@ -51,7 +51,6 @@
   <string name="user_aware_display_title">Användarmedveten display</string>
   <string name="user_aware_display_summary">Håll skärmen på medan en användare är framför displayen</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambient display</string>
   <string name="ambient_display_enable_title">Ambient display</string>
   <string name="ambient_display_enable_summary">Väck skärmen när du tar emot aviseringar</string>
   <!-- Tilt sensor -->

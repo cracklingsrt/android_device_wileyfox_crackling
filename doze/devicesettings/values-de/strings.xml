@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Benutzersensitive Anzeige</string>
   <string name="user_aware_display_summary">Den Bildschirm aktiv halten, solange sich vor ihm ein Benutzer befindet</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Inaktivitätsdisplay</string>
   <string name="ambient_display_enable_title">Inaktivitätsdisplay</string>
   <string name="ambient_display_enable_summary">Bildschirm aktivieren, wenn Sie Benachrichtigungen erhalten</string>
   <string name="ambient_display_summary">Bildschirm einschalten, wenn Sie Benachrichtigungen erhalten</string>

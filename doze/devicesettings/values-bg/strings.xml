@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Потребителски дисплей</string>
   <string name="user_aware_display_summary">Задръж екрана включен, докато потребителят е пред дисплея</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Активен дисплей</string>
   <string name="ambient_display_enable_title">Активен дисплей</string>
   <string name="ambient_display_enable_summary">Събужда екрана при получаване на известие</string>
   <string name="ambient_display_summary">Събужда екрана при получаване на известие</string>

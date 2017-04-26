@@ -44,7 +44,6 @@
   <string name="user_aware_display_title">ഉപഭോക്താവിനെ അറിഞ്ഞുകൊണ്ടുള്ള പ്രദർശിനി</string>
   <string name="user_aware_display_summary">യുസർ മുന്നിലുള്ളലടത്തോളം സ്ക്രീൻ ഓണാക്കി വയ്ക്കുക</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">വ്യാപിക്കുന്ന പ്രദര്‍ശനം</string>
   <string name="ambient_display_enable_title">വ്യാപിക്കുന്ന പ്രദര്‍ശനം</string>
   <string name="ambient_display_enable_summary">നിങ്ങൾക്ക് അറിയിപ്പുകൾ ലഭിക്കുമ്പോൾ സ്ക്രീൻ ഉണര്‍ത്തുക</string>
   <!-- Tilt sensor -->

@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Pantalla en función de la presencia del usuario</string>
   <string name="user_aware_display_summary">Mantener la pantalla activa mientras el usuario esté frente a ella</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Pantalla ambiente</string>
   <string name="ambient_display_enable_title">Pantalla ambiente</string>
   <string name="ambient_display_enable_summary">Encender pantalla al recibir notificaciones</string>
   <string name="ambient_display_summary">Encender pantalla al recibir notificaciones</string>

@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Etkileşimli ekran</string>
   <string name="user_aware_display_summary">Kullanıcı ekranın önündeyken ekranı açık tutar</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Bildirim ekranı</string>
   <string name="ambient_display_enable_title">Bildirim ekranı</string>
   <string name="ambient_display_enable_summary">Bildirim aldığınızda ekranı uyandırın</string>
   <string name="ambient_display_summary">Bildirim geldiğinde cihazı uyandır</string>

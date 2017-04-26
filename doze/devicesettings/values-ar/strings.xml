@@ -44,7 +44,6 @@
   <string name="user_aware_display_title">شاشة تراعي المستخدم</string>
   <string name="user_aware_display_summary">تظل الشاشة تعمل طالما ظل المستخدم أمامها</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">العرض المحيطي</string>
   <string name="ambient_display_enable_title">العرض المحيطي</string>
   <string name="ambient_display_enable_summary">نشّط الشاشة عند تلقي إخطارات</string>
   <!-- Tilt sensor -->

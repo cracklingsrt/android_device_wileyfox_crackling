@@ -44,7 +44,6 @@
   <string name="user_aware_display_title">प्रयोक्ता-जाणीव प्रदर्शन</string>
   <string name="user_aware_display_summary">प्रयोक्ता प्रदर्शनाच्या समोर असताना स्क्रीन चालू ठेवा</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">अँबियन्ट प्रदर्शन</string>
   <string name="ambient_display_enable_title">अँबियन्ट प्रदर्शन</string>
   <string name="ambient_display_enable_summary">तुम्हाला नोटिफिकेशन्स मिळतील तेव्हा स्क्रीन सक्रिय करा</string>
   <!-- Tilt sensor -->

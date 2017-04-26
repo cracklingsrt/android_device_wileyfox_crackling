@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">使用認識ディスプレイ</string>
   <string name="user_aware_display_summary">ユーザーがディスプレイの前にいる間は画面を点灯し続ける</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">アンビエント表示</string>
   <string name="ambient_display_enable_title">アンビエント表示</string>
   <string name="ambient_display_enable_summary">通知を受信したときに画面を点灯する</string>
   <string name="ambient_display_summary">通知を受信したときに画面を点灯する</string>

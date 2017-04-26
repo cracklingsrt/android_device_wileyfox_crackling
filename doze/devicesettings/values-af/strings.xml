@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Gebruiker bewus skerm</string>
   <string name="user_aware_display_summary">Hou skerm aan terwyl gebruiker voor skerm is</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Omgewings temperatuur skerm</string>
   <string name="ambient_display_enable_title">Omgewings temperatuur skerm</string>
   <string name="ambient_display_enable_summary">Skerm sal wakker word wanneer jy kennisgewings ontvang</string>
   <string name="ambient_display_summary">Skerm sal wakker word wanneer jy kennisgewings ontvang</string>

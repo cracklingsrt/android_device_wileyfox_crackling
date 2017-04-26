@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Deteção de rosto</string>
   <string name="user_aware_display_summary">Manter o ecrã ligado enquanto o utilizador estiver em frente ao visor</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Visualização de ambiente</string>
   <string name="ambient_display_enable_title">Visualização de ambiente</string>
   <string name="ambient_display_enable_summary">Ligar o ecrã quando receber notificações</string>
   <string name="ambient_display_summary">Ligar o ecrã quando receber notificações</string>

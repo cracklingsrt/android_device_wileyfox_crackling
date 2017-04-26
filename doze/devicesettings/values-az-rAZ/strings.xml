@@ -32,7 +32,6 @@
   <string name="user_aware_display_title">İstifadəçini xəbərdar edən ekran</string>
   <string name="user_aware_display_summary">İstifadəçi ekranın qarşısında olanda ekranı açıq saxlayar</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ekran mühiti</string>
   <string name="ambient_display_enable_title">Ekran mühiti</string>
   <string name="ambient_display_enable_summary">Bildiriş gələndə ekranı oyandırar</string>
   <!-- Tilt sensor -->

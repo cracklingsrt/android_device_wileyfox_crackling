@@ -44,7 +44,6 @@
   <string name="user_aware_display_title">ผู้ใช้อยู่หน้าจอ</string>
   <string name="user_aware_display_summary">เปิดจอค้างไว้เมื่อผู้ใช้อยู่หน้าจอ</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">หน้าจอแวดล้อม</string>
   <string name="ambient_display_enable_title">หน้าจอแวดล้อม</string>
   <string name="ambient_display_enable_summary">เปิดหน้าจอเมื่อมีการแจ้งเตือน</string>
   <!-- Tilt sensor -->

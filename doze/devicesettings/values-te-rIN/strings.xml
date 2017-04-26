@@ -44,7 +44,6 @@
   <string name="user_aware_display_title">యూసర్-అవేర్ డిస్ప్లే</string>
   <string name="user_aware_display_summary">యూసర్ వాడేటప్పుడు స్క్రీన్ ఆన్ ఉంచండి</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">ఆధునిక(పరిసర) డిస్ప్లే</string>
   <string name="ambient_display_enable_title">ఆధునిక(పరిసర) డిస్ప్లే</string>
   <string name="ambient_display_enable_summary">నోటిఫికేషన్స్ వచ్చినప్పుడు స్క్రీన్ ఆన్ చేయండి</string>
   <!-- Tilt sensor -->

@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Käyttäjän tunnistava näyttö</string>
   <string name="user_aware_display_summary">Pidä näyttö päällä kun käyttäjä on näytön edessä</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambient-näyttö</string>
   <string name="ambient_display_enable_title">Ambient-näyttö</string>
   <string name="ambient_display_enable_summary">Herätä näyttö kun saat ilmoituksia</string>
   <string name="ambient_display_summary">Herätä näyttö kun saat ilmoituksia</string>

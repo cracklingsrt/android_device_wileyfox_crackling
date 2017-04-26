@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Affichage selon l\'utilisateur</string>
   <string name="user_aware_display_summary">Garder l\'écran allumé tant qu\'un utilisateur le regarde</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Affichage ambiant</string>
   <string name="ambient_display_enable_title">Affichage ambiant</string>
   <string name="ambient_display_enable_summary">Allume l\'écran lorsque vous recevez des notifications</string>
   <string name="ambient_display_summary">Activer l\'écran quand vous recevez des notifications</string>

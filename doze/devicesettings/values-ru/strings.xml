@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Интеллектуальное откл. экрана</string>
   <string name="user_aware_display_summary">Не отключать экран, пока пользователь находится перед ним</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Индикация событий</string>
   <string name="ambient_display_enable_title">Индикация событий</string>
   <string name="ambient_display_enable_summary">Включать экран при получении уведомлений</string>
   <string name="ambient_display_summary">Включать экран при получении уведомлений</string>

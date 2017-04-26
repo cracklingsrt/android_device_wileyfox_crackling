@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Korisniku prilagođen prikaz</string>
   <string name="user_aware_display_summary">Drži zaslon uključen dok je korisnik ispred zaslona</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambijentni zaslon</string>
   <string name="ambient_display_enable_title">Ambijentni zaslon</string>
   <string name="ambient_display_enable_summary">Probudi zaslon kada primite obavijesti</string>
   <string name="ambient_display_summary">Probudi zaslon kada primite obavijesti</string>

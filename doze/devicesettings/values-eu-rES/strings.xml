@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Erabiltzaile aintzakotzat duen pantaila</string>
   <string name="user_aware_display_summary">Mantendu pantaila piztuta erabiltzailea begira dagoen bitartean</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambient display</string>
   <string name="ambient_display_enable_title">Ambient display</string>
   <string name="ambient_display_enable_summary">Esnatu pantaila jakinarazpenak jasotzean</string>
   <string name="ambient_display_summary">Piztu pantaila jakinarazpenak jasotzean</string>

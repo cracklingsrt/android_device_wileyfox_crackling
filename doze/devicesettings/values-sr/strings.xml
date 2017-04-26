@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Дисплеј свестан корисника</string>
   <string name="user_aware_display_summary">Држи екран укљученим док је корисник испред дисплеја</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Амбијент приказ</string>
   <string name="ambient_display_enable_title">Амбијент приказ</string>
   <string name="ambient_display_enable_summary">Пробуди екран кад добијеш обавештење</string>
   <string name="ambient_display_summary">Пробуди екран кад добијеш обавештење</string>

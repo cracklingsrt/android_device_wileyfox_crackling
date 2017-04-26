@@ -52,7 +52,6 @@
   <string name="user_aware_display_title">ব্যাবহারকারী সচেতন বার্তা</string>
   <string name="user_aware_display_summary">ব্যাবহারকারী সামনে থাকলে স্ক্রীন চালু থাকবে</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">অবস্থানির্ভর প্রদর্শন</string>
   <string name="ambient_display_enable_title">অবস্থানির্ভর প্রদর্শন</string>
   <string name="ambient_display_enable_summary">বিজ্ঞপ্তি প্রাপ্ত হলে পর্দা সক্রিয় হবে</string>
   <!-- Tilt sensor -->

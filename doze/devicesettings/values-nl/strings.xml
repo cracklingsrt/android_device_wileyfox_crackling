@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Gebruikersbewust scherm</string>
   <string name="user_aware_display_summary">Scherm aan houden als de gebruiker voor het scherm zit</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Omgevingsdisplay</string>
   <string name="ambient_display_enable_title">Omgevingsdisplay</string>
   <string name="ambient_display_enable_summary">Scherm aan bij het ontvangen van meldingen</string>
   <string name="ambient_display_summary">Scherm aan bij het ontvangen van meldingen</string>

@@ -53,7 +53,6 @@
   <string name="user_aware_display_title">Aktywny ekran podczas spoglądania na niego</string>
   <string name="user_aware_display_summary">Utrzymuj ekran włączony, gdy użytkownik spogląda na ekran</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Aktywny wyświetlacz</string>
   <string name="ambient_display_enable_title">Aktywny wyświetlacz</string>
   <string name="ambient_display_enable_summary">Wybudź ekran, po otrzymaniu powiadomienia</string>
   <string name="ambient_display_summary">Wybudź ekran po odebraniu powiadomienia</string>

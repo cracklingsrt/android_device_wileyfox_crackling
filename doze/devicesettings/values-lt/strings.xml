@@ -29,7 +29,6 @@
   <string name="user_aware_display_title">Naudotoją suprantantis ekranas</string>
   <string name="user_aware_display_summary">Išlaikyti ekraną įjungtą, kai naudotojas žiūri į jį</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambient display</string>
   <string name="ambient_display_enable_title">Ambient display</string>
   <string name="ambient_display_enable_summary">Pažadinti ekraną, kai gaunami pranešimai</string>
   <!-- Tilt sensor -->

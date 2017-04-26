@@ -45,7 +45,6 @@
   <string name="user_aware_display_title">Kasutaja teadlik ekraan</string>
   <string name="user_aware_display_summary">Hoia ekraan sees, kui kasutaja on ekraani ees</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Ambient ekraan</string>
   <string name="ambient_display_enable_title">Ambient kuva</string>
   <string name="ambient_display_enable_summary">Ärata ekraan teavituste saabumisel</string>
   <!-- Tilt sensor -->

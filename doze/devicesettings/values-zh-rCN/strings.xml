@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">用户感知显示</string>
   <string name="user_aware_display_summary">当使用者在屏幕前时保持屏幕开启</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">环境显示</string>
   <string name="ambient_display_enable_title">环境显示</string>
   <string name="ambient_display_enable_summary">当接收到通知时唤醒屏幕</string>
   <string name="ambient_display_summary">当接收到通知时唤醒屏幕</string>

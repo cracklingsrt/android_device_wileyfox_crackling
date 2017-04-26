@@ -27,7 +27,6 @@
   <!-- Touchscreen gestures -->
   <!-- User-aware display -->
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Aptverošais displejs</string>
   <string name="ambient_display_enable_title">Aptverošais displejs</string>
   <string name="ambient_display_enable_summary">Saņemot ziņojumus, ieslēgt ekrānu</string>
   <!-- Tilt sensor -->

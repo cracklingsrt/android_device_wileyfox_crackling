@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">사용자 인식 화면</string>
   <string name="user_aware_display_summary">사용자가 화면 앞에 있는 동안 화면 켜기</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">절전 모드 자동 해제</string>
   <string name="ambient_display_enable_title">절전 모드 자동 해제</string>
   <string name="ambient_display_enable_summary">알림을 받았을 때 화면이 켜짐</string>
   <string name="ambient_display_summary">알림을 받으면 화면 켜기</string>

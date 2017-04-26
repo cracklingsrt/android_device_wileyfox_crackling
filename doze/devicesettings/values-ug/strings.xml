@@ -44,7 +44,6 @@
   <string name="user_aware_display_title">ئابونت سەزگۈ كۆرسىتىش</string>
   <string name="user_aware_display_summary">ئىشلەتكۈچى ئېكران ئالدىغا كەلگەندە ئېكران ئوچۇق تۇرسۇن</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">تەشەببۇسكارلىق بىلەن كۆرسىتىدۇ</string>
   <string name="ambient_display_enable_title">تەشەببۇسكارلىق بىلەن كۆرسىتىدۇ</string>
   <string name="ambient_display_enable_summary">ئۇقتۇرۇش كەلگەندە ئېكراننى ئويغىتىدۇ</string>
   <!-- Tilt sensor -->

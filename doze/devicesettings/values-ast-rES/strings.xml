@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Pantalla en presencia del usuariu</string>
   <string name="user_aware_display_summary">Caltién la pantalla encesa entrín heba un usuariu enfrente d\'ella</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Pantalla ambiente</string>
   <string name="ambient_display_enable_title">Pantalla ambiente</string>
   <string name="ambient_display_enable_summary">Esconsueña la pantalla al recibir avisos</string>
   <string name="ambient_display_summary">Esconsueña la pantalla al recibir avisos</string>

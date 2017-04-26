@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Zaslon z zaznavanjem uporabnika</string>
   <string name="user_aware_display_summary">Ohrani zaslon vklopljen, ko je uporabnik pred zaslonom</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Okoliški zaslon</string>
   <string name="ambient_display_enable_title">Okoliški zaslon</string>
   <string name="ambient_display_enable_summary">Zbudi zaslon, ko prejmem obvestila</string>
   <string name="ambient_display_summary">Zbudi zaslon ob prejemu obvestila</string>

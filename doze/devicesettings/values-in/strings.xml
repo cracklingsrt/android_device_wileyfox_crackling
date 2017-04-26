@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Tampilan sadar pengguna</string>
   <string name="user_aware_display_summary">Biarkan layar menyala ketika pengguna sedang berada di depan layar</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Tampilan ambien</string>
   <string name="ambient_display_enable_title">Tampilan ambien</string>
   <string name="ambient_display_enable_summary">Bangunkan layar saat Anda menerima Pemberitahuan</string>
   <string name="ambient_display_summary">Hidupkan layar saat Anda menerima pemberitahuan</string>

@@ -44,7 +44,6 @@
   <string name="user_aware_display_title">ব্যৱহাৰকৰ্তা-সজগতা প্রদর্শন</string>
   <string name="user_aware_display_summary">ব্যৱহাৰকৰ্তা প্রদর্শনৰ সম্মুখত থাকিলে স্ক্ৰীণ অন কৰি ৰাখক</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">পৰিপাৰ্শ্বিক ডিচপ্লে</string>
   <string name="ambient_display_enable_title">পৰিপাৰ্শ্বিক ডিচপ্লে</string>
   <string name="ambient_display_enable_summary">আপুনি অধিসূচনা প্ৰাপ্ত কৰিলে স্ক্ৰীণ ৱেক কৰক</string>
   <!-- Tilt sensor -->

@@ -32,7 +32,6 @@
   <string name="user_aware_display_title">نمایش کاربر آگاه</string>
   <string name="user_aware_display_summary">روشن نگه داشتن صفحه زمانی که کاربری جلوی صفحه نمایش است</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">نمایش حساس به محیط</string>
   <string name="ambient_display_enable_title">نمایش حساس به محیط</string>
   <string name="ambient_display_enable_summary">روشن شدن صفحه هنگام دریافت اعلان</string>
   <!-- Tilt sensor -->

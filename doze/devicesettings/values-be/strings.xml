@@ -43,7 +43,6 @@
   <string name="user_aware_display_title">Інтэлектуальнае адкл. дысплея</string>
   <string name="user_aware_display_summary">Трымаць экран уключаным, пакуль карыстач знаходзіцца перад ім</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Індыкацыя падзей</string>
   <string name="ambient_display_enable_title">Індыкацыя падзей</string>
   <string name="ambient_display_enable_summary">Улучаць экран падчас атрымання паведамленняў</string>
   <!-- Tilt sensor -->

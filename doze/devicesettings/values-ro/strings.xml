@@ -56,7 +56,6 @@
   <string name="user_aware_display_title">Ecran reactiv la gesturi utilizator</string>
   <string name="user_aware_display_summary">Menține ecranul aprins cât timp utilizatorul este în dreptul afișajului</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">Afișare ambientală</string>
   <string name="ambient_display_enable_title">Afișare ambientală</string>
   <string name="ambient_display_enable_summary">Trezește ecran când primiți notificări</string>
   <string name="ambient_display_summary">Trezește ecranul când primiți notificări</string>

@@ -44,7 +44,6 @@
   <string name="user_aware_display_title">ଉପଭୋକ୍ତା-ସଚେତନ ଡିସ୍‍ପ୍ଲେ</string>
   <string name="user_aware_display_summary">ଡିସ୍‍ପ୍ଲେର ସାମନାରେ ଜଣେ ଉପଭୋକ୍ତା ଥିବା ସମୟରେ ସ୍କ୍ରିନ୍‍କୁ ଅନ୍‍ ରଖନ୍ତୁ</string>
   <!-- Ambient Display -->
-  <string name="ambient_display_title">ଏମ୍ବିଏଣ୍ଟ ପ୍ରଦର୍ଶନ</string>
   <string name="ambient_display_enable_title">ଏମ୍ବିଏଣ୍ଟ ପ୍ରଦର୍ଶନ</string>
   <string name="ambient_display_enable_summary">ଆପଣ ସୂଚନାବଳି ପ୍ରାପ୍ତ କରିବା ସମୟରେ ସ୍କ୍ରିନ୍‍କୁ ଉଠାନ୍ତୁ</string>
   <!-- Tilt sensor -->
