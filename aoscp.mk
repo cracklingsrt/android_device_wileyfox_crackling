@@ -16,13 +16,13 @@
 
 $(call inherit-product, device/wileyfox/crackling/full_crackling.mk)
 
-# Inherit some common Lineage stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+# Inherit some common AOSCP stuff.
+$(call inherit-product, vendor/aoscp/configs/common_full_phone.mk)
 
 # Must define platform variant before including any common things
 TARGET_BOARD_PLATFORM_VARIANT := msm8916
 
-PRODUCT_NAME := lineage_crackling
+PRODUCT_NAME := aoscp_crackling
 PRODUCT_DEVICE := crackling
 PRODUCT_BRAND := Wileyfox
 PRODUCT_MODEL := Wileyfox Swift
